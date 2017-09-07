@@ -50,5 +50,4 @@ public class WidgetUtils {
         }
         return parsedDate;
     }
-
 }
